@@ -1,0 +1,2 @@
+> adb shell ls /storage/emulated/0/Android/data/com.example.herald_flutter/files
+> adb pull /storage/emulated/0/Android/data/com.example.herald_flutter/files
